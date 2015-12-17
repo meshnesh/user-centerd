@@ -1,2 +1,2 @@
-# user-centered
+# user-centred
 This an assignment of the UX Centred design 
